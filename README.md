@@ -11,8 +11,8 @@
 - [Daniel Oshima Music](https://github.com/doshima2024/Daniel-Oshima-Website-Capstone)
 - This full stack web application showcases Daniel as a musical artist. Users can listen to songs embedded from Spotify, leave comments on them, leave Guestbook entries on the home page and search Daniel’s entire catalogue via Spotify’s API. 
 
-- [School Administration CLI Tool](https://github.com/doshima2024/python-p3-v2-final-project-template)
-- This CLI Application allows a school’s teachers and administrators to manage rosters of students, assign them to teachers, and keep track of their grades.
+- [Song Display and Rater](https://github.com/doshima2024/songdisplay)
+- Community driven tool for sharing and rating music using Spotify embeds.
 
 - [Mixtape Maker App](https://github.com/Bijorgo/mixtape-maker)
 - This full stack application allows users to create and customize mixtapes of their favorite songs. Users can add songs, search for songs, create multiple mixtapes, and mark songs as “listened” or “un-listened”.
