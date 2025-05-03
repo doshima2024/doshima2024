@@ -14,12 +14,14 @@
 - Leave comments on individual songs
 - Sign a guestbook on the homepage
 - Search Daniel’s catalog using Spotify’s API (Client Credentials Flow)
-- 
+  
+  
 - [Song Display and Rater](https://github.com/doshima2024/songdisplay)
 - Community driven tool for sharing and rating music using Spotify embeds.
 - Users can share tracks and rate them
 - Songs embedded via Spotify
 - Features a clean UI built with React and backend built with Flask
+  
 
 - [Mixtape Maker App](https://github.com/Bijorgo/mixtape-maker)
 - This full stack application for creating and personalizing mixtapes.
