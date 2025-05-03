@@ -8,7 +8,7 @@
 
 ## Projects: 
 
-*[Daniel Oshima Music](https://github.com/doshima2024/Daniel-Oshima-Website-Capstone) | [Watch Demo](https://www.loom.com/share/3e742aed1d634e20b2aacc3b91a367c4?sid=5600191c-9671-4f2e-bf6f-a168d411cbde)*
+**[Daniel Oshima Music](https://github.com/doshima2024/Daniel-Oshima-Website-Capstone)** | [Watch Demo](https://www.loom.com/share/3e742aed1d634e20b2aacc3b91a367c4?sid=5600191c-9671-4f2e-bf6f-a168d411cbde)
 - This full stack web application showcases a musical artist.
 - Users can listen to songs embedded via Spotify
 - Leave comments on individual songs
@@ -16,14 +16,14 @@
 - Search Daniel’s catalog using Spotify’s API (Client Credentials Flow)
   
   
-*[Song Display and Rater](https://github.com/doshima2024/songdisplay) | [Watch Demo](https://www.loom.com/share/d838cd201da9476288ae2263415edb1b)*
+**[Song Display and Rater](https://github.com/doshima2024/songdisplay)** | [Watch Demo](https://www.loom.com/share/d838cd201da9476288ae2263415edb1b)
 - Community driven tool for sharing and rating music using Spotify embeds.
 - Users can share tracks and rate them
 - Songs embedded via Spotify
 - Features a clean UI built with React and backend built with Flask
   
 
-*[Mixtape Maker App](https://github.com/Bijorgo/mixtape-maker)*
+**[Mixtape Maker App](https://github.com/Bijorgo/mixtape-maker)**
 - This full stack application for creating and personalizing mixtapes.
 - Add, search, and organize songs into custom mixtapes
 - Mark songs as "listened" or "unlistened"
