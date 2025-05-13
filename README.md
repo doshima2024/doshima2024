@@ -1,10 +1,10 @@
 ## Hi there 👋, I'm Daniel!:
 
 
-- 👨‍🎓 I'm full-stack developer and a graduate of Flatiron School in Software Engineering.
-- 👨‍💻🎼 Passionate about coding, music, and technology, and especially excited about building creative applications at the intersection of all three.
-- 🔭 I’m currently building projects and working to strengthen my full-stack skills with React, Flask (Python), SQLAlchemy, and SQLite/PostgreSQL.
-- 💼 Open to software engineering roles across industries, with a strong interest in music tech, advertising and healthcare.
+- 👨‍🎓 I'm a full-stack developer and Flatiron School graduate with a passion for building dynamic web applications using React, Flask, SQLAlchemy, and PostgreSQL.
+- 👨‍💻 I leverage my background in music and technology to create engaging user experiences, but I'm equally excited about tackling challenges across industries like healthcare, advertising, and entertainment, to name a few.
+- 🔭 Currently, I'm expanding my full-stack skills by developing projects that showcase clean UI design, RESTful APIs, and robust database integrations.
+- 💼 Open to software engineering roles with a focus on frontend, backend, or full-stack development.
 
 ## Projects: 
 
