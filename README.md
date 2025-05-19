@@ -22,7 +22,7 @@
 - Users can share tracks and rate them
 - Songs embedded via Spotify
 - Features a clean UI built with React and backend built with Flask
-- v1.1 with user authentication in progress, please see README.
+- v1.1 with user authentication in progress, please see README for details.
 
 ---
 
