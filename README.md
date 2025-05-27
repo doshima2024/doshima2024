@@ -6,6 +6,9 @@
 - 🔭 Currently, I'm expanding my full-stack skills by developing projects that showcase clean UI design, RESTful APIs, and robust database integrations.
 - 💼 Open to software engineering roles with a focus on frontend, backend, or full-stack development.
 
+## Tech Stack:
+- React · JavaScript (ES6+) · Python (Flask) · SQLAlchemy · PostgreSQL · HTML · CSS · Git · REST APIs
+
 ## Projects: 
 
 **[Daniel Oshima Music](https://github.com/doshima2024/Daniel-Oshima-Website-Capstone)** | [Watch Demo](https://www.loom.com/share/3e742aed1d634e20b2aacc3b91a367c4?sid=5600191c-9671-4f2e-bf6f-a168d411cbde)
