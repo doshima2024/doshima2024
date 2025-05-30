@@ -37,6 +37,10 @@
 
 ---
 
+## Current Learning:
+
+- Basic Java syntax and implementation.
+
 **📫 How to reach me:**
       [LinkedIn](https://www.linkedin.com/in/daniel-oshima/)
       [Email](mailto:doshima2013@gmail.com)
