@@ -1,8 +1,8 @@
 ## Hi there 👋, I'm Daniel!:
 
 
-- 👨‍🎓 I'm a full-stack developer and Flatiron School graduate with a passion for building dynamic web applications using React, Flask, SQLAlchemy, and PostgreSQL.
-- 👨‍💻 I leverage my background in music and technology to create engaging user experiences, but I'm equally excited about tackling challenges across industries like healthcare, entertainment and finance.
+- 👨‍🎓  Full-stack developer and Flatiron School graduate. Before tech, I spent years in sales and operations, bringing communication and client skills that complement my engineering work.
+- 👨‍💻 I enjoy building music-focused apps because I'm a musician myself, but I'm equally excited about tackling challenges across industries like healthcare, entertainment and finance.
 - 🔭 Currently, I'm expanding my full-stack skills by developing projects that showcase clean UI design, RESTful APIs, and database integrations.
 - 💼 Open to software engineering roles with a focus on frontend, backend, or full-stack development.
 
@@ -14,11 +14,7 @@
 ## Projects: 
 
 **[Daniel Oshima Music](https://github.com/doshima2024/Daniel-Oshima-Website-Capstone)** | [Watch Demo](https://www.loom.com/share/3e742aed1d634e20b2aacc3b91a367c4?sid=5600191c-9671-4f2e-bf6f-a168d411cbde)
-- This full stack web application showcases a musical artist.
-- Users can listen to songs embedded via Spotify
-- Leave comments on individual songs
-- Sign a guestbook on the homepage
-- Search Daniel’s catalog using Spotify’s API (Client Credentials Flow)
+- A full-stack artist site where users can listen to songs via Spotify, leave comments, sign a guestbook, and search the catalog using Spotify's API (Client Credentials Flow).
 
 ---
   
