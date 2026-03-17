@@ -4,7 +4,7 @@
 - 👨‍🎓  Full-stack developer and Flatiron School graduate. Before tech, I spent years in sales and operations, bringing communication and client skills that complement my engineering work.
 - 👨‍💻 I enjoy building music-focused apps because I'm a musician myself, but I'm equally excited about tackling challenges across industries like healthcare, entertainment and finance.
 - 🔭 Currently, I'm expanding my full-stack skills by developing projects that showcase clean UI design, RESTful APIs, and database integrations.
-- 💼 Open to software engineering roles with a focus on frontend, backend, or full-stack development.
+- 💼 Open to opportunities in software engineering and technical/solution-oriented roles where I can combine my engineering background with client-facing experience.
 
 ## Tech Stack:
 - JavaScript · React · HTML · CSS  
