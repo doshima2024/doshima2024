@@ -13,9 +13,11 @@
 
 ## Projects: 
 
-****[Musical Session Tracker](https://github.com/doshima2024/musical-session-tracker)**
-Full-stack React (Vite) and Flask application for creating sessions and logging musical ideas with CRUD functionality and REST API integration.
-Currently expanding features and improving design.
+**[Musical Session Tracker](https://github.com/doshima2024/musical-session-tracker)**
+- Full-stack React (Vite) and Flask application for creating sessions and logging musical ideas with CRUD functionality and REST API integration.
+- Currently expanding features and improving design.
+
+---
 
 **[Daniel Oshima Music](https://github.com/doshima2024/Daniel-Oshima-Website-Capstone)** | [Watch Demo](https://www.loom.com/share/3e742aed1d634e20b2aacc3b91a367c4?sid=5600191c-9671-4f2e-bf6f-a168d411cbde)
 - A full-stack artist site where users can listen to songs via Spotify, leave comments, sign a guestbook, and search the catalog using Spotify's API (Client Credentials Flow).
